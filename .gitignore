@@ -1,0 +1,16 @@
+# Data files
+data/
+*.csv
+*.xlsx
+*.parquet
+
+# Python/Mac Junk
+__pycache__/
+.DS_Store
+.venv/
+.ipynb_checkpoints/
+.env
+
+# Large Model weights
+models/*.pkl
+models/*.pth
